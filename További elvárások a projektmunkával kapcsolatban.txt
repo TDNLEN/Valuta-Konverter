@@ -1,0 +1,4 @@
+    //saját currency, rövidítés átváltási érték, saját érték eltárolása a kódban abstract factory,
+    // ez mehet a strotégiába is (esetleg adapter illesztő)
+    //adatb vagy API
+    //API command, singletonba eltárolni,
