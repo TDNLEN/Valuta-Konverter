@@ -2,3 +2,5 @@
     // ez mehet a strotégiába is (esetleg adapter illesztő)
     //adatb vagy API
     //API command, singletonba eltárolni,
+    //néhány junit teszt fejenként 3 ez igazából megvan de lehet komolyabb pl többlet teszt
+    //saját valuta trollisztán 
